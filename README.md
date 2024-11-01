@@ -23,7 +23,8 @@ To install **4G Only**, simply download the app from the [Google Play Store](#ht
 ## Usage
 1. Open the app.
 2. Tap the "Set 4G Only" button to lock your network to 4G.
-3. Enjoy stable 4G connectivity without network switching.
+3. Select 'LTE Only' option
+4. Enjoy stable 4G connectivity without network switching.
 
 ## Requirements
 - Android device with 4G support.
