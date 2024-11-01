@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">4G Only</string>
+    <string name="set_5g_only">Set 4G Only</string>
+    <string name="alert">NOTE\nEnsure You Have 4G Signal in Your Area.</string>
+    <string name="_1_click_on_set_preferred_network_type_dropdown">1. Click on \'Set preferred network type\' dropdown</string>
+    <string name="_2_select_nr_only_option">2. Select \'LTE Only\' option</string>
+
+    <!--    Sample AD IDs-->
+    <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
+    <string name="ad_id">ca-app-pub-3940256099942544/1033173712</string>
+
+    <!--    Real AD IDs-->
+    <!--        <string name="app_id">ca-app-pub-1907660941815601~5919413882</string>-->
+    <!--        <string name="ad_id">ca-app-pub-1907660941815601/2944462846</string>-->
+
+
+</resources>
