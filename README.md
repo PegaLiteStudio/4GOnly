@@ -12,8 +12,9 @@
 ## App Previews
 
 <p float="left">
-  <img src="https://github.com/PegaLiteStudio/4GOnly/blob/master/Images/img1.png" alt="Pega FPL Preview 1" width="200" />
-  <img src="https://github.com/PegaLiteStudio/4GOnly/blob/master/Images/img2.png" alt="Pega FPL Preview 2" width="200" />
+  <img src="https://github.com/PegaLiteStudio/4GOnly/blob/master/Images/img1.png" alt="4G Only Preview 1" width="200" />
+  <img src="https://github.com/PegaLiteStudio/4GOnly/blob/master/Images/img2.png" alt="4G Only Preview 2" width="200" />
+  <img src="https://github.com/PegaLiteStudio/4GOnly/blob/master/Images/img3.png" alt="4G Only Preview 2" width="200" />
 </p>
 
 
