@@ -19,7 +19,7 @@
 
 
 ## Installation
-To install **4G Only**, simply download the app from the [Google Play Store](#https://play.google.com/store/apps/details?id=com.pegalite.fourgonly) or clone this repository and build the APK using Android Studio.
+To install **4G Only**, simply download the app from the [Google Play Store](https://play.google.com/store/apps/details?id=com.pegalite.fourgonly) or clone this repository and build the APK using Android Studio.
 
 ## Usage
 1. Open the app.
