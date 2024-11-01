@@ -9,9 +9,4 @@
     <string name="app_id">ca-app-pub-3940256099942544~3347511713</string>
     <string name="ad_id">ca-app-pub-3940256099942544/1033173712</string>
 
-    <!--    Real AD IDs-->
-    <!--        <string name="app_id">ca-app-pub-1907660941815601~5919413882</string>-->
-    <!--        <string name="ad_id">ca-app-pub-1907660941815601/2944462846</string>-->
-
-
 </resources>
